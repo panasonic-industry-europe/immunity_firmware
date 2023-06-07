@@ -1,6 +1,6 @@
 # Immunity Firmware
-[![Version badge](https://img.shields.io/badge/Version-1.0.0-green.svg)]()
-[![Generic badge](https://img.shields.io/badge/Made_with-VSCode_/_NCS-orange.svg)]()
+[![Version badge](https://img.shields.io/badge/Version-1.0.1-green.svg)]()
+[![Generic badge](https://img.shields.io/badge/Made_with-VSCode_/_NCS-orange.svg)]() [![Generic badge](https://img.shields.io/badge/Made_with_NCS_version-2.4.0-orange.svg)]()
 [![Generic badge](https://img.shields.io/badge/Target-PAN1780_/_PAN1781_/_PAN1782-blue.svg)]()
 
 This firmware project is made as counterpart to the Immunity App. It uses the Nordic UART Service (NUS) to receive data and directly mirroring it back to the sender.
