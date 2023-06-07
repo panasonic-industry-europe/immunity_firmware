@@ -4,9 +4,9 @@
  * SPDX-License-Identifier: BSD-3-Clause
  */
 
-#include <zephyr.h>
+#include <zephyr/kernel.h>
 #include <bluetooth/services/nus.h>
-#include <logging/log.h>
+#include <zephyr/logging/log.h>
 LOG_MODULE_REGISTER(main_app);
 
 #define DEVICE_NAME CONFIG_BT_DEVICE_NAME
